@@ -1,2 +1,2 @@
 # javascript
-a code for learn javscript
+block code for javscript
